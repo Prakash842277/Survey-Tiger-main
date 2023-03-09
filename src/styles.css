@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.surver-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+  flex-direction: column;
+}
+
+.btn {
+  width: 150px;
+  background-color: darkred;
+  cursor: pointer;
+  font-size: 16px;
+  border: 1px solid;
+  padding: 15px;
+  margin: 5px;
+  color: white;
+}
+
+.single-question {
+  margin-top: 20px;
+  border: 1px solid;
+  padding: 5px;
+  width: 50vw;
+  background-color: darkolivegreen;
+  color: white;
+}
+.multi-question {
+  margin-top: 20px;
+  border: 1px solid;
+  padding: 5px;
+  width: 50vw;
+  background-color: darkolivegreen;
+  color: white;
+}
+
+.option {
+  width: 170px;
+  background-color: darkgoldenrod;
+  cursor: pointer;
+  font-size: 10px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 5px;
+  color: white;
+}
